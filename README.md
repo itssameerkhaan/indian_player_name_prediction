@@ -19,4 +19,6 @@ when all player images are create
 then run the all cells .
 u see the score is improved
 
+Convolutional Neural Networks (CNNs)
+
 THANKYOU
